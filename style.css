@@ -1,0 +1,16 @@
+body{
+    color: rgb(228, 191, 147);
+    background-color: rgb(141, 118, 90);
+    
+}
+h1{
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(99, 77, 51);
+    margin-top: 15px;
+}
+#my_heading{
+    font-family: cursive;
+    color: rgb(121, 81, 69);
+}
